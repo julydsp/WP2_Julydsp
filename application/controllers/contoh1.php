@@ -9,6 +9,5 @@ class Contoh1 extends CI_Controller
         Saya tinggal di daerah SUKOHARJO
         olah raga yang saya sukai adalah
         Bulutangkis";
-            echo 'asu';
 }
 }
