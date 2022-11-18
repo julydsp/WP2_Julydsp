@@ -45,7 +45,7 @@ public function simpanKategori($data = null)
 {
 $this->db->insert('kategori', $data);
 }
-public function hapusKategori($where = null)
+public function hapuskategori($where = null)
 {
 $this->db->delete('kategori', $where);
 }
